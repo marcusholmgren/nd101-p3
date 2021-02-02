@@ -4,7 +4,7 @@ asn1crypto==0.22.0
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
-bleach==2.0.0
+bleach==3.3.0
 bokeh==0.12.4
 certifi==2017.1.23
 cffi==1.10.0
