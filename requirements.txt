@@ -6,7 +6,7 @@ backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
 bleach==2.0.0
 bokeh==0.12.4
-certifi==2017.1.23
+certifi==2022.12.7
 cffi==1.10.0
 chardet==2.3.0
 click==6.7
